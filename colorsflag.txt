@@ -1,0 +1,12 @@
+Proportional Palette Hex
+ColorAreaClosest Color Name(Base Color)
+#b9b4b5 3.0 %Pink Swan(Grey)
+#2a3178 1.8 %Resolution Blue(Blue)
+#bb010a 9.7 %Free Speech Red(Red)
+#9d0609 9.6 %Sangria(Red)
+#6f6f81 3.8 %Raven(Blue)
+#7e0f12 2.7 %Falu Red(Red)
+#141237 2.6 %Midnight Express(Blue)
+#a5797b 2.4 %Turkish Rose(Red)
+#652425 2.4 %Pohutukawa(Red)
+#65668c 1.0 %Kimberly(Violet)

@@ -3,11 +3,14 @@
 
 body {
   margin: 0;
+  background-color: #a5797b;
 }
+
 
 header {
   margin: 0 auto;
   width: 1000px;
+  background-image: url(../images/flag.jpg)
 }
 
 header h1 {
@@ -38,6 +41,8 @@ nav {
   width: 1000px;
   padding: 5px 0;
   text-align: center;
+  background-color:#b9b4b5;
+  border-color: #141237;
 }
 
 nav a {
