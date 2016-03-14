@@ -43,6 +43,10 @@ h3 {
   font-weight: 400;
 }
 
+ul{
+  list-style-image: url(../images/star.png);
+}
+
 p {
   margin: 0;
   margin-bottom: 10px;
@@ -59,6 +63,7 @@ nav {
 
 nav a {
   margin: 0 35px;
+  color: #6f6f81;
 }
 
 .floatright {
@@ -70,4 +75,13 @@ nav a {
   margin: 0 auto;
   width: 1000px;
   padding: 5px 15px;
+  background-color: #b9b4b5;
+  font-family: "Lato", sans-serif;
+  font-size: 97%;
+  font-weight: 400;
+}
+
+#navLinks{
+  font-family: "Lato",sans-serif;
+  color: #2a3178;
 }
